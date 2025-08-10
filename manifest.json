@@ -1,0 +1,23 @@
+{
+  "name": "Bitcoin Address Decoder",
+  "short_name": "BTC Decoder",
+  "description": "Decode Bitcoin addresses (Base58Check, Bech32/Bech32m) entirely in your browser.",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1e1e1e",
+  "background_color": "#121212",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

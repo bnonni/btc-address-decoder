@@ -1,0 +1,7 @@
+/* Optional custom styles.
+   Tailwind handles the design; this file exists for tweaks or overrides if needed. */
+
+html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
